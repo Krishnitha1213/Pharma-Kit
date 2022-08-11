@@ -1,0 +1,26 @@
+.projects{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+.projects ul{
+    float: left;
+    border-right: 1px solid palevioletred;
+    margin-left: 418px;
+    text-align: center;
+}
+.projects li{
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+    
+.li:hover{
+    cursor: pointer;
+    font-size: 18px ;
+    text-decoration: underline greenyellow;
+    text-shadow: 1cm;
+    color: hotpink
+}
